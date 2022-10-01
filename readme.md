@@ -1,6 +1,6 @@
 # Question Link :
 
-<a href="https://drive.google.com/file/d/1CB8jdwyJbujc3sblIyrk_wOb_DYD3Yeh/view">Question</a>
+<a  target="_blank" href="https://drive.google.com/file/d/1CB8jdwyJbujc3sblIyrk_wOb_DYD3Yeh/view">Question</a>
 
 ```
 These are very simple problem which are solved by python as a newbie in python.
